@@ -1,0 +1,12 @@
+Content based filtering=
+
+in this algorithm we try finding item look alike.Once we have item
+look alike matrix, we can easily recommended alike items to a customer
+who has purchased any item from the store.
+
+Collaborative filtering=
+
+here, we try to search for lookalike customers and offer products based
+on what his /her lookalike has choosen.This algorithm is very effective 
+but takes a lot of time and resources.
+
